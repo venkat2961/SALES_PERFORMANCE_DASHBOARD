@@ -89,22 +89,6 @@ The sample dataset is at order-line level (one product per order ID in this simp
 - Confirm no blank customer/product relationships and no unexpected negative sales.
 - Compare a few records manually against the CSV.
 
-## Portfolio README template
-After you finish, add:
-1. Problem statement and objectives.
-2. Dataset description and source (state clearly that data is synthetic).
-3. Tools and skills used.
-4. Data cleaning and modeling steps.
-5. Dashboard screenshots.
-6. 3–5 real findings calculated from your own completed dashboard.
-7. Business recommendations supported by those findings.
-8. Limitations and next steps.
-
-## Resume bullet (use only after you complete the project)
-Built an interactive Power BI sales performance dashboard using Excel, SQL, and DAX to analyze revenue, profitability, product performance, regional trends, and customer segments; validated KPIs against SQL queries and created drill-down reporting for business users.
-
-## Interview explanation
-“I built a sales performance dashboard from raw order, customer, and product data. I inspected and cleaned the data in Excel/Power Query, used SQL joins and aggregations to answer business questions, and modeled the data in Power BI with a Date table and DAX measures. The report provides an executive overview plus product, regional, and customer analysis. I reconciled the headline KPIs with SQL to validate the results.”
 
 ## Suggested GitHub repository structure
 ```
