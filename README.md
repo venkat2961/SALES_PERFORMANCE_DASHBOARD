@@ -47,37 +47,6 @@ Build a business-ready sales dashboard using Excel, SQL, and Power BI. This star
 6. Add the DAX measures from the supplied file. Format Sales/Profit/AOV as currency, margin/change as percentage, orders/units as whole numbers.
 7. Use single-direction relationships from dimension tables to Orders unless you have a justified reason to change them.
 
-### Phase 4 — Dashboard pages
-
-**Page 1: Executive Overview**
-- KPI cards: Total Sales, Total Profit, Profit Margin %, Total Orders, Unique Customers, Average Order Value.
-- Line chart: Total Sales by Date[Year Month].
-- Clustered bar chart: Total Sales and Total Profit by Region.
-- Donut chart: Total Sales by Category.
-- Slicers: Date, Region, Segment, Category.
-- Add a subtitle noting that core KPIs include delivered orders only.
-
-**Page 2: Product & Region Analysis**
-- Bar chart: Total Sales by ProductName (Top N = 10).
-- Matrix: Category → ProductName with Total Sales, Total Profit, Profit Margin % and Units Sold.
-- Map or bar chart: Sales by City/Region (a bar chart is easier to interpret).
-- Scatter chart: Total Sales vs Total Profit by product; use product as details.
-- Slicers: Date, Region, Category.
-
-**Page 3: Customer & Order Analysis**
-- Bar chart: Total Sales by Segment.
-- Table: Top customers with sales and profit.
-- Column chart: Returned Orders and Cancelled Orders (these are separate operational metrics, not part of delivered-order sales).
-- Column chart: Total Sales by PaymentMethod.
-- Slicers: Segment, Region, OrderStatus, Date.
-
-## Suggested design
-- Canvas: 16:9 widescreen.
-- Keep a consistent theme, 2–3 main colors, clear titles, readable labels, and enough whitespace.
-- Use currency formatting consistently (₹ if presenting as an India-focused portfolio).
-- Use meaningful tooltips and synced slicers.
-- Add alt text where practical and test the report at normal laptop size.
-
 ## Important modeling note
 The sample dataset is at order-line level (one product per order ID in this simplified dataset). Core sales/profit KPIs filter to `Delivered`. Returned/cancelled counts are shown separately. State these assumptions in the report. For real datasets, agree with stakeholders on whether returned orders should be netted from sales and how discounts, shipping, tax, and returns are recorded.
 
