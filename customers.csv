@@ -1,0 +1,221 @@
+CustomerID,CustomerName,Segment,Region,City,JoinDate
+C0001,Customer 001,Consumer,North,Jaipur,2024-03-09
+C0002,Customer 002,Corporate,Central,Bhopal,2023-04-05
+C0003,Customer 003,Corporate,East,Guwahati,2024-12-18
+C0004,Customer 004,Consumer,West,Ahmedabad,2024-03-26
+C0005,Customer 005,Small Business,East,Bhubaneswar,2025-02-20
+C0006,Customer 006,Corporate,West,Pune,2024-03-19
+C0007,Customer 007,Corporate,East,Kolkata,2025-06-06
+C0008,Customer 008,Corporate,North,Delhi,2024-09-23
+C0009,Customer 009,Consumer,North,Jaipur,2023-03-09
+C0010,Customer 010,Small Business,Central,Nagpur,2025-02-17
+C0011,Customer 011,Consumer,West,Mumbai,2024-05-12
+C0012,Customer 012,Consumer,North,Jaipur,2024-11-14
+C0013,Customer 013,Small Business,Central,Nagpur,2024-02-15
+C0014,Customer 014,Consumer,South,Hyderabad,2024-04-14
+C0015,Customer 015,Consumer,West,Mumbai,2024-11-17
+C0016,Customer 016,Consumer,East,Bhubaneswar,2024-10-31
+C0017,Customer 017,Corporate,Central,Indore,2024-09-21
+C0018,Customer 018,Consumer,West,Ahmedabad,2025-04-12
+C0019,Customer 019,Consumer,East,Guwahati,2025-06-17
+C0020,Customer 020,Corporate,South,Chennai,2023-05-20
+C0021,Customer 021,Consumer,Central,Bhopal,2025-03-07
+C0022,Customer 022,Corporate,West,Pune,2024-12-06
+C0023,Customer 023,Consumer,South,Bengaluru,2024-05-20
+C0024,Customer 024,Consumer,East,Kolkata,2023-04-25
+C0025,Customer 025,Consumer,East,Guwahati,2025-05-05
+C0026,Customer 026,Corporate,East,Bhubaneswar,2024-09-26
+C0027,Customer 027,Corporate,East,Bhubaneswar,2025-03-05
+C0028,Customer 028,Consumer,South,Chennai,2024-03-12
+C0029,Customer 029,Consumer,Central,Bhopal,2025-09-19
+C0030,Customer 030,Consumer,Central,Nagpur,2023-02-28
+C0031,Customer 031,Consumer,Central,Bhopal,2024-03-10
+C0032,Customer 032,Corporate,West,Pune,2025-02-22
+C0033,Customer 033,Consumer,Central,Indore,2024-02-22
+C0034,Customer 034,Consumer,Central,Indore,2023-01-23
+C0035,Customer 035,Corporate,North,Delhi,2024-11-27
+C0036,Customer 036,Consumer,East,Guwahati,2024-05-16
+C0037,Customer 037,Corporate,Central,Bhopal,2024-05-10
+C0038,Customer 038,Consumer,East,Kolkata,2023-10-29
+C0039,Customer 039,Consumer,West,Pune,2025-08-17
+C0040,Customer 040,Consumer,North,Chandigarh,2025-08-19
+C0041,Customer 041,Corporate,South,Bengaluru,2024-04-02
+C0042,Customer 042,Small Business,South,Hyderabad,2025-02-17
+C0043,Customer 043,Consumer,South,Bengaluru,2025-01-06
+C0044,Customer 044,Consumer,South,Chennai,2025-06-21
+C0045,Customer 045,Consumer,North,Chandigarh,2024-12-22
+C0046,Customer 046,Corporate,South,Chennai,2023-06-26
+C0047,Customer 047,Corporate,East,Guwahati,2024-05-07
+C0048,Customer 048,Consumer,West,Mumbai,2024-09-19
+C0049,Customer 049,Corporate,North,Chandigarh,2024-09-20
+C0050,Customer 050,Consumer,North,Jaipur,2023-02-11
+C0051,Customer 051,Consumer,North,Chandigarh,2024-10-22
+C0052,Customer 052,Consumer,North,Delhi,2024-08-10
+C0053,Customer 053,Small Business,West,Mumbai,2025-09-16
+C0054,Customer 054,Consumer,East,Bhubaneswar,2024-08-13
+C0055,Customer 055,Small Business,South,Hyderabad,2024-02-23
+C0056,Customer 056,Corporate,East,Kolkata,2023-03-24
+C0057,Customer 057,Consumer,South,Chennai,2024-03-17
+C0058,Customer 058,Corporate,Central,Indore,2024-04-18
+C0059,Customer 059,Consumer,Central,Bhopal,2024-06-29
+C0060,Customer 060,Consumer,East,Kolkata,2023-01-22
+C0061,Customer 061,Small Business,South,Bengaluru,2024-06-26
+C0062,Customer 062,Corporate,North,Delhi,2023-04-19
+C0063,Customer 063,Consumer,West,Ahmedabad,2023-09-01
+C0064,Customer 064,Corporate,West,Ahmedabad,2025-02-07
+C0065,Customer 065,Small Business,South,Hyderabad,2025-09-02
+C0066,Customer 066,Consumer,South,Hyderabad,2024-07-08
+C0067,Customer 067,Corporate,East,Bhubaneswar,2024-04-05
+C0068,Customer 068,Consumer,Central,Bhopal,2025-08-10
+C0069,Customer 069,Consumer,West,Mumbai,2025-06-24
+C0070,Customer 070,Small Business,South,Hyderabad,2023-06-14
+C0071,Customer 071,Consumer,East,Kolkata,2025-08-27
+C0072,Customer 072,Small Business,Central,Bhopal,2025-01-18
+C0073,Customer 073,Small Business,Central,Nagpur,2023-04-26
+C0074,Customer 074,Consumer,East,Kolkata,2025-02-11
+C0075,Customer 075,Consumer,South,Chennai,2025-06-05
+C0076,Customer 076,Corporate,North,Chandigarh,2023-09-20
+C0077,Customer 077,Consumer,North,Jaipur,2023-02-01
+C0078,Customer 078,Corporate,North,Jaipur,2023-06-03
+C0079,Customer 079,Corporate,West,Mumbai,2024-12-20
+C0080,Customer 080,Consumer,Central,Bhopal,2023-11-07
+C0081,Customer 081,Small Business,Central,Nagpur,2024-05-14
+C0082,Customer 082,Consumer,East,Guwahati,2023-01-14
+C0083,Customer 083,Consumer,North,Delhi,2023-01-18
+C0084,Customer 084,Consumer,West,Mumbai,2024-05-21
+C0085,Customer 085,Corporate,Central,Nagpur,2024-02-22
+C0086,Customer 086,Corporate,North,Delhi,2024-12-16
+C0087,Customer 087,Consumer,North,Jaipur,2024-03-09
+C0088,Customer 088,Small Business,North,Delhi,2024-02-02
+C0089,Customer 089,Consumer,Central,Bhopal,2024-05-23
+C0090,Customer 090,Small Business,West,Pune,2023-10-14
+C0091,Customer 091,Consumer,Central,Nagpur,2024-08-19
+C0092,Customer 092,Corporate,East,Guwahati,2023-04-16
+C0093,Customer 093,Consumer,West,Mumbai,2023-01-07
+C0094,Customer 094,Corporate,Central,Bhopal,2025-07-22
+C0095,Customer 095,Consumer,West,Ahmedabad,2024-09-26
+C0096,Customer 096,Consumer,West,Pune,2023-04-20
+C0097,Customer 097,Corporate,South,Bengaluru,2024-04-08
+C0098,Customer 098,Consumer,South,Bengaluru,2024-08-29
+C0099,Customer 099,Corporate,Central,Nagpur,2023-10-17
+C0100,Customer 100,Consumer,East,Guwahati,2024-03-01
+C0101,Customer 101,Small Business,North,Chandigarh,2023-10-02
+C0102,Customer 102,Consumer,East,Kolkata,2023-08-25
+C0103,Customer 103,Corporate,Central,Nagpur,2025-08-17
+C0104,Customer 104,Consumer,North,Chandigarh,2024-08-17
+C0105,Customer 105,Corporate,South,Hyderabad,2023-11-15
+C0106,Customer 106,Consumer,South,Bengaluru,2025-07-09
+C0107,Customer 107,Consumer,East,Kolkata,2024-07-31
+C0108,Customer 108,Consumer,North,Chandigarh,2023-01-22
+C0109,Customer 109,Consumer,West,Mumbai,2025-04-10
+C0110,Customer 110,Corporate,North,Chandigarh,2024-11-11
+C0111,Customer 111,Consumer,Central,Indore,2025-09-11
+C0112,Customer 112,Small Business,East,Guwahati,2025-05-01
+C0113,Customer 113,Consumer,East,Kolkata,2025-06-08
+C0114,Customer 114,Consumer,South,Chennai,2024-07-25
+C0115,Customer 115,Consumer,Central,Indore,2023-01-08
+C0116,Customer 116,Consumer,South,Bengaluru,2023-04-12
+C0117,Customer 117,Consumer,North,Jaipur,2024-02-09
+C0118,Customer 118,Consumer,Central,Nagpur,2025-04-23
+C0119,Customer 119,Small Business,Central,Nagpur,2023-11-17
+C0120,Customer 120,Corporate,Central,Indore,2024-10-04
+C0121,Customer 121,Consumer,West,Ahmedabad,2025-04-06
+C0122,Customer 122,Consumer,East,Guwahati,2025-05-07
+C0123,Customer 123,Consumer,Central,Indore,2024-11-17
+C0124,Customer 124,Consumer,West,Mumbai,2023-05-20
+C0125,Customer 125,Consumer,East,Bhubaneswar,2024-08-27
+C0126,Customer 126,Consumer,South,Chennai,2024-01-02
+C0127,Customer 127,Consumer,West,Mumbai,2023-07-02
+C0128,Customer 128,Consumer,West,Ahmedabad,2025-08-06
+C0129,Customer 129,Consumer,West,Ahmedabad,2025-02-09
+C0130,Customer 130,Consumer,South,Bengaluru,2025-04-28
+C0131,Customer 131,Corporate,East,Bhubaneswar,2024-07-07
+C0132,Customer 132,Corporate,East,Kolkata,2023-10-16
+C0133,Customer 133,Consumer,North,Jaipur,2024-08-20
+C0134,Customer 134,Small Business,West,Ahmedabad,2023-05-13
+C0135,Customer 135,Consumer,Central,Indore,2024-09-13
+C0136,Customer 136,Consumer,West,Pune,2025-07-24
+C0137,Customer 137,Small Business,West,Mumbai,2023-06-19
+C0138,Customer 138,Corporate,Central,Indore,2025-02-21
+C0139,Customer 139,Small Business,Central,Nagpur,2023-04-01
+C0140,Customer 140,Corporate,South,Hyderabad,2023-04-06
+C0141,Customer 141,Consumer,East,Bhubaneswar,2023-05-10
+C0142,Customer 142,Corporate,East,Bhubaneswar,2024-04-10
+C0143,Customer 143,Corporate,West,Pune,2025-07-09
+C0144,Customer 144,Consumer,West,Mumbai,2024-08-22
+C0145,Customer 145,Consumer,North,Jaipur,2025-02-24
+C0146,Customer 146,Consumer,North,Chandigarh,2024-10-19
+C0147,Customer 147,Corporate,West,Pune,2023-07-28
+C0148,Customer 148,Consumer,West,Ahmedabad,2025-06-17
+C0149,Customer 149,Consumer,Central,Nagpur,2025-03-06
+C0150,Customer 150,Consumer,South,Hyderabad,2023-06-07
+C0151,Customer 151,Small Business,Central,Bhopal,2024-07-09
+C0152,Customer 152,Consumer,East,Kolkata,2024-12-30
+C0153,Customer 153,Small Business,North,Chandigarh,2023-12-27
+C0154,Customer 154,Consumer,West,Mumbai,2024-01-12
+C0155,Customer 155,Corporate,West,Ahmedabad,2025-04-26
+C0156,Customer 156,Consumer,Central,Bhopal,2025-04-30
+C0157,Customer 157,Consumer,Central,Indore,2024-04-23
+C0158,Customer 158,Corporate,East,Bhubaneswar,2023-01-13
+C0159,Customer 159,Corporate,North,Chandigarh,2024-03-07
+C0160,Customer 160,Consumer,South,Hyderabad,2024-03-18
+C0161,Customer 161,Small Business,North,Delhi,2025-01-08
+C0162,Customer 162,Consumer,West,Pune,2025-09-24
+C0163,Customer 163,Consumer,North,Jaipur,2025-02-16
+C0164,Customer 164,Consumer,Central,Indore,2025-09-26
+C0165,Customer 165,Corporate,North,Chandigarh,2024-09-15
+C0166,Customer 166,Small Business,North,Jaipur,2023-01-29
+C0167,Customer 167,Consumer,South,Hyderabad,2025-05-04
+C0168,Customer 168,Consumer,West,Mumbai,2025-06-29
+C0169,Customer 169,Consumer,South,Chennai,2023-01-06
+C0170,Customer 170,Consumer,North,Jaipur,2024-08-28
+C0171,Customer 171,Consumer,Central,Nagpur,2023-10-15
+C0172,Customer 172,Consumer,Central,Nagpur,2025-03-11
+C0173,Customer 173,Corporate,Central,Nagpur,2025-04-26
+C0174,Customer 174,Corporate,West,Pune,2023-02-10
+C0175,Customer 175,Consumer,East,Kolkata,2024-11-28
+C0176,Customer 176,Corporate,East,Bhubaneswar,2024-09-22
+C0177,Customer 177,Consumer,North,Jaipur,2025-03-24
+C0178,Customer 178,Consumer,West,Mumbai,2023-09-28
+C0179,Customer 179,Small Business,North,Jaipur,2025-01-19
+C0180,Customer 180,Consumer,West,Mumbai,2024-09-08
+C0181,Customer 181,Small Business,North,Delhi,2024-04-03
+C0182,Customer 182,Consumer,West,Pune,2023-04-02
+C0183,Customer 183,Small Business,West,Mumbai,2024-08-14
+C0184,Customer 184,Corporate,East,Kolkata,2024-09-28
+C0185,Customer 185,Consumer,Central,Indore,2023-09-06
+C0186,Customer 186,Consumer,Central,Indore,2024-08-01
+C0187,Customer 187,Corporate,East,Guwahati,2024-03-18
+C0188,Customer 188,Consumer,Central,Indore,2024-05-23
+C0189,Customer 189,Consumer,West,Pune,2023-05-10
+C0190,Customer 190,Consumer,North,Jaipur,2023-10-06
+C0191,Customer 191,Consumer,North,Delhi,2025-02-24
+C0192,Customer 192,Corporate,West,Ahmedabad,2024-02-16
+C0193,Customer 193,Consumer,North,Chandigarh,2025-08-07
+C0194,Customer 194,Consumer,East,Guwahati,2023-02-06
+C0195,Customer 195,Consumer,South,Chennai,2023-05-28
+C0196,Customer 196,Corporate,South,Chennai,2024-07-19
+C0197,Customer 197,Corporate,East,Guwahati,2024-08-10
+C0198,Customer 198,Consumer,West,Mumbai,2025-02-26
+C0199,Customer 199,Consumer,South,Chennai,2024-06-13
+C0200,Customer 200,Consumer,West,Ahmedabad,2024-05-27
+C0201,Customer 201,Small Business,Central,Nagpur,2023-05-09
+C0202,Customer 202,Consumer,Central,Nagpur,2024-06-04
+C0203,Customer 203,Consumer,South,Bengaluru,2024-06-03
+C0204,Customer 204,Consumer,Central,Bhopal,2023-04-26
+C0205,Customer 205,Corporate,North,Delhi,2025-04-01
+C0206,Customer 206,Consumer,North,Chandigarh,2023-12-01
+C0207,Customer 207,Consumer,East,Kolkata,2023-03-08
+C0208,Customer 208,Consumer,West,Pune,2025-04-07
+C0209,Customer 209,Consumer,West,Ahmedabad,2024-12-10
+C0210,Customer 210,Corporate,North,Jaipur,2023-04-30
+C0211,Customer 211,Small Business,East,Bhubaneswar,2023-03-18
+C0212,Customer 212,Corporate,Central,Indore,2023-11-07
+C0213,Customer 213,Corporate,West,Ahmedabad,2025-01-23
+C0214,Customer 214,Corporate,South,Chennai,2023-01-11
+C0215,Customer 215,Consumer,West,Mumbai,2024-04-11
+C0216,Customer 216,Consumer,North,Chandigarh,2025-04-16
+C0217,Customer 217,Corporate,Central,Nagpur,2023-07-20
+C0218,Customer 218,Small Business,Central,Indore,2023-05-22
+C0219,Customer 219,Consumer,East,Bhubaneswar,2023-11-25
+C0220,Customer 220,Corporate,North,Delhi,2024-03-09

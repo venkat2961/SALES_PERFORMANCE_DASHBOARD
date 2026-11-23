@@ -1,0 +1,15 @@
+ProductID,ProductName,Category,UnitPrice,BaseMargin
+P001,Laptop,Technology,52000,0.2
+P002,Monitor,Technology,12000,0.24
+P003,Keyboard,Technology,1800,0.3
+P004,Printer,Technology,9500,0.18
+P005,Phone,Technology,28000,0.16
+P006,Office Chair,Furniture,7500,0.28
+P007,Desk,Furniture,11000,0.22
+P008,Bookshelf,Furniture,6200,0.25
+P009,Meeting Table,Furniture,18000,0.2
+P010,Notebook Pack,Office Supplies,350,0.35
+P011,Pen Set,Office Supplies,180,0.4
+P012,Paper Box,Office Supplies,650,0.26
+P013,Stapler,Office Supplies,220,0.32
+P014,Storage Folder,Office Supplies,140,0.38
